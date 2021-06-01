@@ -28,8 +28,7 @@ Please checkout our wiki pages:
 
 - [Setup Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Setup-Guide)
 - [Bot Strategy Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Bot-Strategy-Guide)
-- [Configuration Guide](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot/wiki/Configuration)
-
+- [Cong
 ## Troubleshooting
 
 1. Read the [FAQ](FAQ.md)
